@@ -17,7 +17,7 @@
 ###
 
 <section>
-  <h3 align="center">¿Que me gusta desarrollar?💙</h3>
+  <h3 align="center">¿Qué me gusta desarrollar?💙</h3>
   <ul>
     <li>Videojuegos</li>
     <li>Desarrollo web front-end (principalmente)</li>

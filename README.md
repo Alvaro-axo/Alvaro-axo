@@ -10,11 +10,17 @@
 
 ###
 
-<p align="center">Soy un programador en proceso que disfruta de aprender varias tecnologias.
+<p align="center">Soy un programador en <strong>proceso</strong> que disfruta de aprender varias tecnologias.
 
 ###
 
-
+<section>
+  <h3 align="center">¿Que me gusta desarrollar?💙</h3>
+  <ul>
+    <li>Videojuegos</li>
+    <li>Desarrollo web front-end (principalmente)</li>
+  </ul>
+</section>
 
 ###
 

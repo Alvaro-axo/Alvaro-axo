@@ -10,7 +10,9 @@
 
 ###
 
-<p align="center">Soy un programador en <strong>proceso</strong> que disfruta de aprender varias tecnologias.
+<p align="center">Soy un programador en <strong>proceso</strong> que disfruta de aprender varias tecnologias. <p>
+
+---
 
 ###
 
@@ -23,6 +25,8 @@
 </section>
 
 ###
+
+---
 
 <h2 align="center">Lenguajes y tecnologías que utilizo</h2>
 
